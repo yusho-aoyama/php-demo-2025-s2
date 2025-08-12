@@ -32,6 +32,33 @@
             09</a></li>
     <li><a href="experiments/exp-10.php">Experiment
             10</a></li>
+    <li><a href="exercise/basics/hello.php">Session03 -
+            Exercise1
+            </a></li>
+    <li><a href="exercise/basics/bmi.php">Session03 -
+            Exercise2
+        </a></li>
+    <li><a href="exercise/basics/taxes.php">Session03 -
+            Exercise3
+        </a></li>
+    <li><a href="exercise/basics/numbers-for.php">Session03 -
+            Exercise4
+        </a></li>
+    <li><a href="exercise/basics/numbers-for-for.php">Session03 -
+            Exercise5
+        </a></li>
+    <li><a href="exercise/basics/numbers-reverse-odd-for.php">Session03 -
+            Exercise6
+        </a></li>
+    <li><a href="exercise/functions/harmonic-series.php">Session03 -
+            Exercise7
+        </a></li>
+    <li><a href="exercise/functions/calendar.php">Session03 -
+            Exercise8
+        </a></li>
+    <li><a href="exercise/functions/display-calendar.php">Session03 -
+            Exercise9
+        </a></li>
 </ul>
 </body>
 </html>
