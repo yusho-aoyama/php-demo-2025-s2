@@ -7,6 +7,8 @@
     <meta http-equiv="X-UA-Compatible"
           content="ie=edge">
     <title>Home</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
 <body>
 <!--ul>li*10>a[href=experiments/exp-$$
